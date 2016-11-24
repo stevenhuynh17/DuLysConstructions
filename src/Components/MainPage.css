@@ -1,0 +1,51 @@
+.image {
+  position: relative;
+  width: 100%;
+}
+
+h2 {
+  position: absolute;
+  top:200px;
+  left: 0;
+  width: 100%;
+  color: black;
+  padding: 20px;
+}
+
+.Services h1{
+
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.Services ul {
+  display: flex;
+  justify-content: space-around;
+
+  list-style-type: none;
+  padding: 14px 16px;
+}
+
+.Services li {
+  padding: 5px;
+  margin: 5px;
+}
+
+.Content {
+  background-image: url("http://www.masbnr.com/images/background/bg01.jpg");
+  background-size: 100% 100%;
+  padding: 200px;
+}
+
+.Wording {
+  background-color: rgba(192, 192, 192, 0.5);
+  padding: 15px;
+}
+
+button {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}

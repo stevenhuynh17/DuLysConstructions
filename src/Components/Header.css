@@ -1,0 +1,17 @@
+.Header {
+  background-color: #222;
+  height: 60px;
+  padding: 20px;
+  color: White;
+}
+
+.MenuBar li{
+  float: right;
+  list-style-type: none;
+  padding: 14px 16px;
+}
+
+.MenuOptions a{
+  color: white;
+  text-decoration: none;
+}
